@@ -1,0 +1,14 @@
+D:\jason\atv4\obj\Debug\net10.0\atv4.GeneratedMSBuildEditorConfig.editorconfig
+D:\jason\atv4\obj\Debug\net10.0\atv4.AssemblyInfoInputs.cache
+D:\jason\atv4\obj\Debug\net10.0\atv4.AssemblyInfo.cs
+D:\jason\atv4\obj\Debug\net10.0\atv4.csproj.CoreCompileInputs.cache
+D:\jason\atv4\bin\Debug\net10.0\atv4.exe
+D:\jason\atv4\bin\Debug\net10.0\atv4.deps.json
+D:\jason\atv4\bin\Debug\net10.0\atv4.runtimeconfig.json
+D:\jason\atv4\bin\Debug\net10.0\atv4.dll
+D:\jason\atv4\bin\Debug\net10.0\atv4.pdb
+D:\jason\atv4\obj\Debug\net10.0\atv4.dll
+D:\jason\atv4\obj\Debug\net10.0\refint\atv4.dll
+D:\jason\atv4\obj\Debug\net10.0\atv4.pdb
+D:\jason\atv4\obj\Debug\net10.0\atv4.genruntimeconfig.cache
+D:\jason\atv4\obj\Debug\net10.0\ref\atv4.dll
